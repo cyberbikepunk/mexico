@@ -1,1 +1,4 @@
+*.ipynb
 *.csv
+!cuenta_publica_2010_to_2015.sample.csv
+!pef_2008_to_2015.sample.csv
