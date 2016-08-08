@@ -9,9 +9,10 @@ Ciclo:
 # Amounts 
 # --------------------------------------------------------
 
-Importe Presupuesto de Egresos de la Federación:
+PEF_2016:
+    - Importe Presupuesto de Egresos de la Federación
     - Importe Presupuesto de Egresos de la Federación (PEF)
-    - PEF_2016
+    - 
 
 
 # --------------------------------------------------------
@@ -20,45 +21,45 @@ Importe Presupuesto de Egresos de la Federación:
 
 Ramo: 
 
-Descripción de Ramo:
-    - RAMO_DESCRIPCION
+RAMO_DESCRIPCION:
+    - Descripción de Ramo
+     
 
-Unidad Responsable:
-    - UNIDAD
+UNIDAD:
+    - Unidad Responsable
 
-Descripción de Unidad Responsable":
-    - UNIDAD_DESCRIPCION
-
+UNIDAD_DESCRIPCION:
+    - Descripción de Unidad Responsable
 
 # --------------------------------------------------------
 # Functional classification
 # --------------------------------------------------------
 
-Finalidad:
+GF:
+    - Finalidad
     - Grupo Funcional
-    - GF
 
-Descripción de Finalidad:
-    - GRUPO_FUN_DESCRIPCION
+GRUPO_FUN_DESCRIPCION:
+    - Descripción de Finalidad
     - Descripción de Grupo Funcional
 
-Función:
-    - FN
+FN:
+    - Función
 
-Descripción de Función:
-    - FUNCIONL_DESCRIPCION
+FUNCIONL_DESCRIPCION:
+    - Descripción de Función
 
-Subfunción:
-    - SF
+SF:
+    - Subfunción
 
-Descripción de Subfunción:
-    - SUBFUNCIONL_DESCRIPCION
+SUBFUNCIONL_DESCRIPCION:
+    - Descripción de Subfunción
 
-Actividad Institucional:
-    - AI
+AI: 
+    - Actividad Institucional 
 
-Descripción de Actividad Institucional:
-    - ACTIVIDAD_INST_DESCRIPCION
+ACTIVIDAD_INST_DESCRIPCION:
+    - Descripción de Actividad Institucional
     - Descripción de la Actividad Institucional
 
 
@@ -66,21 +67,21 @@ Descripción de Actividad Institucional:
 # Activity (programs) classification
 # --------------------------------------------------------
 
-Modalidad del Programa presupuestario:
-    - MOD
-
-Descripción de la modalidad del programa presupuestario:
-    - MODALIDAD_DESCRIPCION
-
-Programa Presupuestario:
-    - PP
+MOD:
+    - Modalidad del Programa presupuestario
     - Identificador de Programa Presupuestario
     - Identificador del Programa Presupuestario
 
-Descripción de Programa Presupuestario:
-    - PROGR_PRES_DESCRIPCION
-    - Descripción del Identificador de Programa Presupuestario
+MODALIDAD_DESCRIPCION:
+    - Descripción de la modalidad del programa presupuestario
     - Descripción del Identificador del Programa Presupuestario
+    - Descripción del Identificador de Programa Presupuestario
+   
+PP:
+    - Programa Presupuestario
+
+PROGR_PRES_DESCRIPCION:
+    - Descripción de Programa Presupuestario 
 
 
 # --------------------------------------------------------
@@ -88,23 +89,23 @@ Descripción de Programa Presupuestario:
 # --------------------------------------------------------
 
 
-Objeto del Gasto:
-    - CONCEPTO
+CONCEPTO:
+    - Objeto del Gasto
 
-Descripción de Objeto del Gasto":
-    - CONCEPTO_DESCRIPCION
-
+CONCEPTO_DESCRIPCION:
+    - Descripción de Objeto del Gasto 
+  
 
 # --------------------------------------------------------
 # Expenditure type
 # --------------------------------------------------------
 
-Tipo de Gasto:
-    - TG
+TG:
+    - Tipo de Gasto
 
-Descripción de Tipo de Gasto":
-    - Descripciónde Tipo de Gasto"
-    - TIPO_GASTO_DESCRIPCION
+TIPO_GASTO_DESCRIPCION: 
+    - Descripción de Tipo de Gasto
+    - Descripciónde Tipo de Gasto
 
 
 # --------------------------------------------------------
@@ -112,29 +113,30 @@ Descripción de Tipo de Gasto":
 # --------------------------------------------------------
 
 
-Fuente de Financiamiento:
-    - FF
+FF: 
+    - Fuente de Financiamiento
 
-Descripción de Fuente de Financiamiento:
-    - Descripción Fuente de Financiamiento
+FUENTE_FINAN_DESCRIPCION:
+    - Descripción de Fuente de Financiamiento
+    - Descripción Fuente de Financiamiento 
+    - Descripciónde Fuente de Financiamiento
+    
+EF:
+    - Entidad Federativa 
 
-Entidad Federativa:
-    - EF
-
-Descripción de Entidad Federativa:
-    - ENTIDAD_FED_DESCRIPCION
+ENTIDAD_FED_DESCRIPCION:
+    - Descripción de Entidad Federativa
 
 
 # --------------------------------------------------------
 # Others
 # --------------------------------------------------------
 
-Clave de Cartera:
-    - CLAVE_CARTERA
+CLAVE_CARTERA:
+    - Clave de Cartera 
 
-Reasignacion:
-    - RA
+RA:
+    - Reasignacion
 
-Descripción de Reasignacion:
-    - REASIGNACION_DESCRIPCION
-
+REASIGNACION_DESCRIPCION:
+    - Descripción de Reasignacion
