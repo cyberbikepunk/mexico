@@ -1,0 +1,140 @@
+# --------------------------------------------------------
+# Dates  
+# --------------------------------------------------------
+
+Ciclo:
+
+
+# --------------------------------------------------------
+# Amounts 
+# --------------------------------------------------------
+
+Importe Presupuesto de Egresos de la Federación:
+    - Importe Presupuesto de Egresos de la Federación (PEF)
+    - PEF_2016
+
+
+# --------------------------------------------------------
+# Administrative classification
+# --------------------------------------------------------
+
+Ramo: 
+
+Descripción de Ramo:
+    - RAMO_DESCRIPCION
+
+Unidad Responsable:
+    - UNIDAD
+
+Descripción de Unidad Responsable":
+    - UNIDAD_DESCRIPCION
+
+
+# --------------------------------------------------------
+# Functional classification
+# --------------------------------------------------------
+
+Finalidad:
+    - Grupo Funcional
+    - GF
+
+Descripción de Finalidad:
+    - GRUPO_FUN_DESCRIPCION
+    - Descripción de Grupo Funcional
+
+Función:
+    - FN
+
+Descripción de Función:
+    - FUNCIONL_DESCRIPCION
+
+Subfunción:
+    - SF
+
+Descripción de Subfunción:
+    - SUBFUNCIONL_DESCRIPCION
+
+Actividad Institucional:
+    - AI
+
+Descripción de Actividad Institucional:
+    - ACTIVIDAD_INST_DESCRIPCION
+    - Descripción de la Actividad Institucional
+
+
+# --------------------------------------------------------
+# Activity (programs) classification
+# --------------------------------------------------------
+
+Modalidad del Programa presupuestario:
+    - MOD
+
+Descripción de la modalidad del programa presupuestario:
+    - MODALIDAD_DESCRIPCION
+
+Programa Presupuestario:
+    - PP
+    - Identificador de Programa Presupuestario
+    - Identificador del Programa Presupuestario
+
+Descripción de Programa Presupuestario:
+    - PROGR_PRES_DESCRIPCION
+    - Descripción del Identificador de Programa Presupuestario
+    - Descripción del Identificador del Programa Presupuestario
+
+
+# --------------------------------------------------------
+# Economic classification
+# --------------------------------------------------------
+
+
+Objeto del Gasto:
+    - CONCEPTO
+
+Descripción de Objeto del Gasto":
+    - CONCEPTO_DESCRIPCION
+
+
+# --------------------------------------------------------
+# Expenditure type
+# --------------------------------------------------------
+
+Tipo de Gasto:
+    - TG
+
+Descripción de Tipo de Gasto":
+    - Descripciónde Tipo de Gasto"
+    - TIPO_GASTO_DESCRIPCION
+
+
+# --------------------------------------------------------
+# Financial source 
+# --------------------------------------------------------
+
+
+Fuente de Financiamiento:
+    - FF
+
+Descripción de Fuente de Financiamiento:
+    - Descripción Fuente de Financiamiento
+
+Entidad Federativa:
+    - EF
+
+Descripción de Entidad Federativa:
+    - ENTIDAD_FED_DESCRIPCION
+
+
+# --------------------------------------------------------
+# Others
+# --------------------------------------------------------
+
+Clave de Cartera:
+    - CLAVE_CARTERA
+
+Reasignacion:
+    - RA
+
+Descripción de Reasignacion:
+    - REASIGNACION_DESCRIPCION
+
