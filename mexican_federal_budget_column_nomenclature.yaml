@@ -1,0 +1,74 @@
+Adefas: 
+  - ADEFAS
+Actividad Institucional: 
+  - AI
+Aprobado:
+  - PEF_2016
+  - Importe Presupuesto de Egresos de la Federación
+  - Importe Presupuesto de Egresos de la Federación (PEF)
+Ciclo:
+Clave de cartera:
+  - CLAVE_CARTERA
+Objeto del Gasto:
+  - CONCEPTO
+Descripción de Fuente de Financiamiento:
+  - FUENTE_FINAN_DESCRIPCION
+Descripción de Función:
+  - FUNCIONL_DESCRIPCION
+Descripción de Grupo Funcional: 
+  - Descripción de Finalidad
+  - GRUPO_FUN_DESCRIPCION
+  - Descripción de Grupo Funcional
+Descripción de Objeto del Gasto:
+  - CONCEPTO_DESCRIPCION
+Descripción de Programa Presupuestario:
+  - PROGR_PRES_DESCRIPCION
+Descripción de Ramo:
+  - RAMO_DESCRIPCION
+Descripción de Subfunción:
+  - SUBFUNCIONL_DESCRIPCION
+Descripción de Tipo de Gasto:
+  - TIPO_GASTO_DESCRIPCION
+Descripción de Unidad Responsable:
+  - UNIDAD_DESCRIPCION
+Descripción de la Actividad Institucional:
+  - ACTIVIDAD_INST_DESCRIPCION
+  - Descripción de Actividad Institucional
+Descripción de la entidad federativa:
+  -- ENTIDAD_FED_DESCRIPCION
+Descripción de la modalidad del programa presupuestario:
+  - MODALIDAD_DESCRIPCION
+  - Descripción del Identificador del Programa Presupuestario
+  - Descripción del Identificador de Programa Presupuestario
+Descripción de Reasignacion:
+  - REASIGNACION_DESCRIPCION
+Devengado:
+Ejercicio:
+Ejercido:
+Entidad Federativa:
+  - EF
+Fuente de Financiamiento:
+  - FF
+Función:
+  - FN
+Grupo Funcional: 
+  - Finalidad
+  - GF
+  - Grupo Funcional  
+Modalidad del Programa presupuestario:
+  - MOD
+  - Identificador de Programa Presupuestario
+  - Identificador del Programa Presupuestario
+Modificado:
+Pagado:
+Programa Presupuestario:
+  - PP
+Ramo:
+Subfunción:
+  - SF
+Tipo de Gasto:
+  - TG
+Reasignacion:
+  - RA
+Unidad Responsable:
+  - UNIDAD
