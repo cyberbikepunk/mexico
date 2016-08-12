@@ -35,7 +35,7 @@ Descripción de la Actividad Institucional:
   - ACTIVIDAD_INST_DESCRIPCION
   - Descripción de Actividad Institucional
 Descripción de la entidad federativa:
-  -- ENTIDAD_FED_DESCRIPCION
+  - ENTIDAD_FED_DESCRIPCION
 Descripción de la modalidad del programa presupuestario:
   - MODALIDAD_DESCRIPCION
   - Descripción del Identificador del Programa Presupuestario
