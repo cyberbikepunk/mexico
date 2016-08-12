@@ -19,7 +19,7 @@ chmod +x Miniconda3-latest-Linux-x86_64.sh && bash +x Miniconda3-latest-Linux-x8
 ```
 
 __Note:__ It's best to answer `no` to the question "Do you wish the installer to prepend the Miniconda3 install location
-to PATH in your /home/loic/.bashrc ?" (you don't really want to change the default python path on your computer).
+to PATH in your /home/path/.bashrc ?" (you don't really want to change the default python path on your computer).
 
 ### Launch the notebook
 
