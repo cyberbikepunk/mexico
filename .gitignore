@@ -1,7 +1,5 @@
 budgets/
 budgets.zip
-pipeline.in/
-pipeline.out/*
 samples/
 *.csv
 *.zip
