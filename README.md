@@ -7,7 +7,7 @@ This repository is part of the [Open-Spending](http://next.openspending.org) pro
 If you're a pythonista, just make sure that you have a `jupyter` notebook running `python3` with `pandas` installed. That's all you need. If not, the easiest way to get set up is to [download the Python3.5 version of Miniconda](http://conda.pydata.org/miniconda.html). On Windows, you're provided with a GUI, so basically you're done. If you're on Linux or OS-X, you'll have to run the installation script, like so: 
 
 ```
-chmod +x Miniconda3-latest-Linux-x86_64.sh && bash +x Miniconda3-latest-Linux-x86_64.sh 
+bash +x Miniconda3-latest-Linux-x86_64.sh 
 ```
 
 __Note:__ It's best to answer `no` to the question "Do you wish the installer to prepend the Miniconda3 install location to PATH in your /home/path/.bashrc ?" (you don't really want to change the default python path on your computer). In case you need help, check out the [Conda documentation](http://conda.pydata.org/docs/install/quick.html).
